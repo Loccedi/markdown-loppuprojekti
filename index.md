@@ -1,4 +1,7 @@
 ## Sami L web-tehtävä
+## About Me
+
+[Read more about me](about.md)
 
 ### Italics and Bold
 Writing in Markdown is _not_ that hard!
